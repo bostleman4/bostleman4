@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student studying chemistry and physics at Ohio State University. I am trying to become more proficient in coding and data processing to assist the Grandinetti Group at OSU. The group uses solid-state NMR to study the structure of glass.
 <!--
 **bostleman4/bostleman4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

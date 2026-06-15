@@ -1,5 +1,5 @@
 ## Hi there 👋
-Undergraduate student studying chemistry and physics at Ohio State University currently working in the Grandinetti Group at Ohio State University.
+Undergraduate student studying chemistry and physics at Ohio State University.
 <!--
 **bostleman4/bostleman4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
